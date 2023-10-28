@@ -1,0 +1,7 @@
+table,
+th,
+td {
+    background-color: gold;
+    border: 1px solid;
+    padding: 5px;
+}
